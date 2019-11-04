@@ -18,3 +18,10 @@ Is abcddd a permutation of abcdd: False
 ```
 Urlification of 'Mr John Smith    ' is 'Mr%20John%20Smith'.
 ```
+
+## 4_palindrome_permutation.py
+```
+Is 'aabbc' a palindrome permutation: True
+Is 'abbc' a palindrome permutation: False
+Is 'aabbcc' a palindrome permutation: True
+```
