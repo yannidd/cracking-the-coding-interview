@@ -34,3 +34,13 @@ pale, pale -> True
 pale, bale -> True
 pale, bake -> False
 ```
+
+## 6_string_compression
+```
+abcd compressed is abcd
+aabbbccccdd compressed is a2b3c4d2
+abbd compressed is abbd
+aabd compressed is aabd
+abdd compressed is abdd
+abddddd compressed is a1b1d5
+```
