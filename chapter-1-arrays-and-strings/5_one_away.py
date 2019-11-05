@@ -14,7 +14,7 @@ def one_away(str1, str2):
   i = len(long) - 1  # long counter
   j = len(short) - 1  # short counter
 
-  while i > 0 or j > 0:
+  while i > 0 and j > 0:
     if long[i] != short[j]:
       n_edits += 1
       i -= 1
