@@ -25,3 +25,12 @@ Is 'aabbc' a palindrome permutation: True
 Is 'abbc' a palindrome permutation: False
 Is 'aabbcc' a palindrome permutation: True
 ```
+
+## 5_one_away.py
+```
+pale, pa -> False
+pale, ple -> True
+pale, pale -> True
+pale, bale -> True
+pale, bake -> False
+```
